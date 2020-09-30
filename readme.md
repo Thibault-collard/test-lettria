@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Thibault-collard/test-lettria">
-    <img src="./client/src/pictures/logo.png.png" alt="Logo" width="80" height="80">
+    <img src="./client/src/pictures/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"> TEST LETTRIA</h3>
@@ -10,8 +10,6 @@
   <p align="center">
     Test de candidature au poste de développeur Front-end chez Lettria, une start-up innovante dans le domaine de l'analyse automatique du langage en langue française
 		<br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explorer la documentation</strong></a>
-    <br />
     <br />
     <a href="https://test-lettria.herokuapp.com">Voir la Demo</a>
     ·
@@ -21,26 +19,10 @@
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [A propos du projet](#a-propos-du-projet)
-  * [Stack](#built-with)
-* [Lancer le projet](#getting-started)
-  * [Pré-requis](#prerequisites)
-  * [Installation](#installation)
-* [Compétences](#usage)
-* [Roadmap](#roadmap)
-* [Licence](#license)
-* [Contact](#contact)
-
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-[![Lettria][product-screenshot]](https://test-lettria.herokuapp.com)
-
+<img src="./client/src/pictures/lettria-homepage.png" alt="Logo" width="80" height="80">
 L'objectif de ce test était de créer une application web utilisant ReactJs et Redux qui devra:
 - permettre à l'utilisateur de se connecter au backend de app.lettria.com
 - permettre à l'utilisateur de modifier son nom ou prénom
