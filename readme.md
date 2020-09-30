@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Thibault-collard/test-lettria">
-    <img src="./client/src/pictures/logo.png" alt="Logo" width="80" height="80">
+    <img src="./client/src/pictures/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center"> TEST LETTRIA</h3>
@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-<img src="./client/src/pictures/lettria-homepage.png" alt="Logo" width="80" height="80">
+<img src="./client/src/pictures/lettria-homepage.png" alt="Logo">
 L'objectif de ce test était de créer une application web utilisant ReactJs et Redux qui devra:
 - permettre à l'utilisateur de se connecter au backend de app.lettria.com
 - permettre à l'utilisateur de modifier son nom ou prénom
